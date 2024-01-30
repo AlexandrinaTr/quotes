@@ -1,0 +1,40 @@
+{
+  "books": [
+    {
+      "id": "8767129835",
+      "title": "The Idiot",
+      "author": "F. M. Dostoievski",
+      "rating": "5",
+      "quotes": [
+        {
+          "id": "6269973946",
+          "page": "58",
+          "quote": "Beauty will save the world."
+        },
+        {
+          "page": "325",
+          "quote": "There is something at the bottom of every new human thought, every thought of genius, or even every earnest thought that springs up in any brain, which can never be communicated to others, even if one were to write volumes about it and were explaining one's idea for thirty-five years; there's something left which cannot be induced to emerge from your brain, and remains with you forever; and with it you will die, without communicating to anyone perhaps the most important of your ideas.",
+          "id": "5119291523"
+        }
+      ]
+    },
+    {
+      "id": "8381365175",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "rating": "5",
+      "quotes": [
+        {
+          "page": "85",
+          "quote": "Let us learn to show our friendship for a man when he is alive and not after he is dead.",
+          "id": "185039563"
+        },
+        {
+          "page": "102",
+          "quote": "I was within and without, simultaneously enchanted and repelled by the inexhaustible variety of life.",
+          "id": "3221818705"
+        }
+      ]
+    }
+  ]
+}
